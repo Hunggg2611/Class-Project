@@ -1,4 +1,4 @@
-Group 4 (Best Group) 
+Author:
 
 Finn Rhoads (fmr2689@rit.edu)
 Dionte Murphy-Ayers (dtm9547@g.rit.edu)
